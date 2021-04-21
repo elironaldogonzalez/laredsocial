@@ -1,5 +1,5 @@
 Basado en el Tutorial: https://www.youtube.com/watch?v=8-RYuQIvwN8. 
-Actualmente se encuentra en la parte 2 del video. Se intenta crear una red social mediante la app utilizando ReactJS. Actualmente se encuentra en pausa, pero se retomará en un futuro cuando no sienta tanta presión por la escuela.
+El proyecto se encuentra en la parte 2 del video. Se intenta crear una red social mediante la app utilizando ReactJS. Actualmente se encuentra en pausa, pero se retomará en un futuro cuando no sienta tanta presión por la escuela.
 
 # Getting Started with Create React App
 
